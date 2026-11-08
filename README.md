@@ -9,10 +9,7 @@
 <p align="center">
   Passionate about building modern, responsive, and user-friendly web applications.
 </p>
-# Hi 👋, I'm Nurani Akter
-### 🔭 I build things with JavaScript, React, and Node.js
-
----
+ 
 
 ## 👩‍💻💻 About Me  
 I'm a passionate frontend developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
