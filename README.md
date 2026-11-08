@@ -155,6 +155,16 @@ A modern developer conference and hackathon landing page featuring event informa
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NuraniAkter&style=flat-square" alt="Profile Views" />
 </p>
+------
+## 🌐 My Portfolio
+
+🚀 Check out my personal portfolio to explore my skills, projects, and experience.
+
+<p align="center">
+  <a href="https://nurani-akter-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio" />
+  </a>
+</p>
 
  
  
