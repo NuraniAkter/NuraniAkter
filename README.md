@@ -158,9 +158,7 @@ A modern developer conference and hackathon landing page featuring event informa
 🔐 Authentication Practice
    └── Better Auth + MongoDB + Next.js
 ```
-<p align="center">
-  💙 Always Learning | Always Building | Always Growing 🚀
-</p>
+ 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NuraniAkter&style=flat-square" alt="Profile Views" />
 </p>
