@@ -13,8 +13,21 @@
 ---
 
 ## 👩‍💻💻 About Me  
-I'm a passionate frontend developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+
+Hi! I'm **Nurani Akter**, a passionate Frontend Developer who loves turning ideas into beautiful, responsive, and user-friendly web applications.
+
+I enjoy working with modern web technologies and continuously improving my development skills. I focus on writing clean, maintainable code and creating smooth user experiences.
+
+- 💻 Skilled in **HTML, CSS, JavaScript, React, and Tailwind CSS**
+- ⚛️ Exploring **Next.js and TypeScript**
+- 🌱 Learning and practicing **Node.js, Express.js, and MongoDB**
+- 🚀 Building real-world projects to strengthen my development skills
+- 🎯 Aspiring to become a professional Frontend Developer
+- 🤝 Open to collaboration, learning opportunities, and exciting projects
+
+I believe in continuous learning, solving problems, and growing as a developer every day.
+
+**Let's connect and build something amazing together!**
 
 ---
 
