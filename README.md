@@ -1,7 +1,6 @@
 <div align="center">
   <img src="./Banner1.png" width="100%" alt="Nurani Akter GitHub Banner" />
 </div>
-
 <h1 align="center">Hi 👋, I'm Nurani Akter</h1>
 
 <h3 align="center">Frontend Developer | React | Next.js | TypeScript</h3>
