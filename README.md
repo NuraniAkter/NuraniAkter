@@ -59,11 +59,20 @@ I believe in continuous learning, solving problems, and growing as a developer e
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NuraniAkter&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuraniAkter&layout=compact&theme=default) |
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=NuraniAkter&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=NuraniAkter&theme=dark&hide_border=false" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NuraniAkter&theme=dark&hide_border=false&layout=compact" height="180" />
+</p>
+ 
 
 ---
 
@@ -147,20 +156,7 @@ A modern developer conference and hackathon landing page featuring event informa
   <img src="https://komarev.com/ghpvc/?username=NuraniAkter&style=flat-square" alt="Profile Views" />
 </p>
 
- ----
- ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=NuraniAkter&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NuraniAkter&theme=dark&hide_border=false" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NuraniAkter&theme=dark&hide_border=false&layout=compact" height="180" />
-</p>
+ 
  
  
  
