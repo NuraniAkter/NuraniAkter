@@ -67,6 +67,82 @@ I believe in continuous learning, solving problems, and growing as a developer e
 
 ---
 
+## 🎯 My Coding Journey
+
+- 🌱 Learning modern web development with **Next.js and TypeScript**
+- 💻 Building real-world projects to improve my practical skills
+- 🔐 Exploring authentication with **Better Auth**
+- 🗄️ Practicing database management with **MongoDB**
+- ⚛️ Improving my skills in **React and JavaScript**
+- 🚀 Working towards becoming a professional **Frontend Developer**
+
+---
+
+## 🚀 Featured Projects
+
+### 🏋️ FitLog
+
+A fitness tracking web application where users can explore workouts, manage their daily plans, and save exercises for later.
+
+**Tech Stack:** `Next.js` · `TypeScript` · `Tailwind CSS`
+
+### 🧱 Dev Stack Builder
+
+A modern application that allows users to explore different development technologies and build their own technology stack.
+
+**Tech Stack:** `React` · `TypeScript` · `Tailwind CSS` · `Vite`
+
+### ☕ Coffee Shop Website
+
+A modern and responsive coffee website featuring an attractive user interface and smooth browsing experience.
+
+**Tech Stack:** `React` · `JavaScript` · `Tailwind CSS`
+
+### 🌐 DevConf 2026
+
+A modern developer conference and hackathon landing page featuring event information, hackathon details, and registration section.
+
+**Tech Stack:** `HTML` · `CSS` · `JavaScript`
+
+---
+
+## 📌 Current Goals
+
+- 🟨 Improve my JavaScript skills
+- 🔷 Improve my TypeScript skills
+- ⚛️ Build more React and Next.js projects
+- 🖥️ Improve backend development skills
+- 🍃 Learn MongoDB deeply
+- 🔐 Practice authentication systems
+- 🚀 Build full-stack web applications
+- 🌍 Deploy more real-world projects
+
+---
+
+## 💻 Projects I'm Working On
+
+```text
+🏋️ FitLog
+   └── Next.js + TypeScript + Tailwind CSS
+
+🧱 Dev Stack Builder
+   └── React + TypeScript + Tailwind CSS + Vite
+
+☕ Coffee Shop Website
+   └── React + JavaScript + Tailwind CSS
+
+🌐 DevConf 2026
+   └── HTML + CSS + JavaScript
+
+🔐 Authentication Practice
+   └── Better Auth + MongoDB + Next.js
+```
+
+---
+
+<p align="center">
+  💙 Always Learning | Always Building | Always Growing 🚀
+</p>
 ![Profile views](https://komarev.com/ghpvc/?username=NuraniAkter&style=flat-square)
 
  
