@@ -130,8 +130,8 @@ A modern and responsive coffee website featuring an attractive user interface an
 A modern developer conference and hackathon landing page featuring event information, hackathon details, and registration section.
 
 **Tech Stack:** `HTML` · `CSS` · `JavaScript`
-
-🔗 [Live Demo](YOUR_DEVCONF_LIVE_LINK) | [GitHub Repository](YOUR_DEVCONF_GITHUB_LINK)
+🔗 [Live Demo](YOUR_COFFEE_LIVE_LINK) | [GitHub Repository](YOUR_COFFEE_GITHUB_LINK)
+ 
 ---
 
 ## 📌 Current Goals
