@@ -99,6 +99,19 @@ I believe in continuous learning, solving problems, and growing as a developer e
 
 ---
 
+## 📚 Currently Learning
+
+- ⚛️ Advanced React Concepts
+- 🔷 TypeScript
+- ▲ Next.js
+- 🟢 Node.js & Express.js
+- 🍃 MongoDB
+- 🔐 Authentication with Better Auth
+
+**Always exploring new technologies and improving my development skills!** 🚀
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🏋️ FitLog
