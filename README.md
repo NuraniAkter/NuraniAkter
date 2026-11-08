@@ -158,6 +158,16 @@ A modern developer conference and hackathon landing page featuring event informa
 🔐 Authentication Practice
    └── Better Auth + MongoDB + Next.js
 ```
+
+---
+
+## 🐍 My GitHub Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+---
  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NuraniAkter&style=flat-square" alt="Profile Views" />
