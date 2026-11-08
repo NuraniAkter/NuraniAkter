@@ -107,11 +107,15 @@ A fitness tracking web application where users can explore workouts, manage thei
 
 **Tech Stack:** `Next.js` · `TypeScript` · `Tailwind CSS`
 
+🔗 [Live Demo](YOUR_FITLOG_LIVE_LINK) | [GitHub Repository](YOUR_FITLOG_GITHUB_LINK)
+
 ### 🧱 Dev Stack Builder
 
 A modern application that allows users to explore different development technologies and build their own technology stack.
 
 **Tech Stack:** `React` · `TypeScript` · `Tailwind CSS` · `Vite`
+
+🔗 [Live Demo](YOUR_DEV_STACK_LIVE_LINK) | [GitHub Repository](YOUR_DEV_STACK_GITHUB_LINK)
 
 ### ☕ Coffee Shop Website
 
@@ -119,12 +123,15 @@ A modern and responsive coffee website featuring an attractive user interface an
 
 **Tech Stack:** `React` · `JavaScript` · `Tailwind CSS`
 
+🔗 [Live Demo](YOUR_COFFEE_LIVE_LINK) | [GitHub Repository](YOUR_COFFEE_GITHUB_LINK)
+
 ### 🌐 DevConf 2026
 
 A modern developer conference and hackathon landing page featuring event information, hackathon details, and registration section.
 
 **Tech Stack:** `HTML` · `CSS` · `JavaScript`
 
+🔗 [Live Demo](YOUR_DEVCONF_LIVE_LINK) | [GitHub Repository](YOUR_DEVCONF_GITHUB_LINK)
 ---
 
 ## 📌 Current Goals
