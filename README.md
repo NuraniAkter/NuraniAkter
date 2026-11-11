@@ -128,7 +128,7 @@ A modern application that allows users to explore different development technolo
 
 **Tech Stack:** `React` · `TypeScript` · `Tailwind CSS` · `Vite`
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://react-assignment-05-project.netlify.app/) [![GitHub Repo](https://img.shields.io/badge/GITHUB-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK) 
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://react-assignment-05-project.netlify.app/) [![GitHub Repo](https://img.shields.io/badge/GITHUB-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NuraniAkter/React-Assignment-05) 
 
 
 ### ☕ Coffee Shop Website
