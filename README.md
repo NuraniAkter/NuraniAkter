@@ -137,7 +137,7 @@ A modern and responsive coffee website featuring an attractive user interface an
 
 **Tech Stack:** `React` · `JavaScript` · `Tailwind CSS`
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_LIVE_LINK) [![GitHub Repo](https://img.shields.io/badge/GITHUB-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK) 
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_LIVE_LINK) [![GitHub Repo](https://img.shields.io/badge/GITHUB-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NuraniAkter/coffe-project) 
 
 
 ### 🌐 DevConf 2026
