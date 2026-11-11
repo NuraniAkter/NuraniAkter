@@ -34,7 +34,7 @@ I believe in continuous learning, solving problems, and growing as a developer e
 
 🚀 Check out my personal portfolio to explore my skills, projects, and experience.
 
-<p align="center">
+<p align="left">
   <a href="https://nurani-akter-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio" />
   </a>
