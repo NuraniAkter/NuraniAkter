@@ -142,7 +142,9 @@ A modern and responsive coffee website featuring an attractive user interface an
 A modern developer conference and hackathon landing page featuring event information, hackathon details, and registration section.
 
 **Tech Stack:** `HTML` · `CSS` · `JavaScript`
+
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_LIVE_LINK) [![GitHub Repo](https://img.shields.io/badge/GITHUB-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK) 
+
 ---
 
 ## 📌 Current Goals
