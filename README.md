@@ -143,6 +143,7 @@ A modern developer conference and hackathon landing page featuring event informa
 
 **Tech Stack:** `HTML` · `CSS` · `JavaScript`
 🔗 [Live Demo](YOUR_COFFEE_LIVE_LINK) | [GitHub Repository](YOUR_COFFEE_GITHUB_LINK)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-🚀-brightgreen?style=for-the-badge)](YOUR_LIVE_LINK) [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-💻-black?style=for-the-badge)](YOUR_GITHUB_LINK)
  
 ---
 
