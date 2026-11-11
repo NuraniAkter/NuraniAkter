@@ -119,7 +119,8 @@ A fitness tracking web application where users can explore workouts, manage thei
 
 **Tech Stack:** `Next.js` · `TypeScript` · `Tailwind CSS`
 
-🔗 [Live Demo](YOUR_FITLOG_LIVE_LINK) | [GitHub Repository](YOUR_FITLOG_GITHUB_LINK)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_LIVE_LINK) [![GitHub Repo](https://img.shields.io/badge/GITHUB-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK) 
+
 
 ### 🧱 Dev Stack Builder
 
@@ -127,7 +128,8 @@ A modern application that allows users to explore different development technolo
 
 **Tech Stack:** `React` · `TypeScript` · `Tailwind CSS` · `Vite`
 
-🔗 [Live Demo](YOUR_DEV_STACK_LIVE_LINK) | [GitHub Repository](YOUR_DEV_STACK_GITHUB_LINK)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_LIVE_LINK) [![GitHub Repo](https://img.shields.io/badge/GITHUB-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK) 
+
 
 ### ☕ Coffee Shop Website
 
@@ -135,7 +137,8 @@ A modern and responsive coffee website featuring an attractive user interface an
 
 **Tech Stack:** `React` · `JavaScript` · `Tailwind CSS`
 
-🔗 [Live Demo](YOUR_COFFEE_LIVE_LINK) | [GitHub Repository](YOUR_COFFEE_GITHUB_LINK)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_LIVE_LINK) [![GitHub Repo](https://img.shields.io/badge/GITHUB-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK) 
+
 
 ### 🌐 DevConf 2026
 
